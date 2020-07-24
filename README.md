@@ -8,7 +8,7 @@ Una introducción a Git y GitHub puede encontrarse en el arículo :
 ## Acceso desde tu computadora
 
 En una terminal de sistema operativo ejecuta el comando :
-  - git clone https://github.com/avmejia-tec/TC1028.413
+  - git clone https://github.com/avmejia-tec/TC1028.414
 
 ## Cambia de directorio a TC1028.414
 
